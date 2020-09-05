@@ -29,7 +29,8 @@
 |[[crow_mask, face], [blue_sunglasses, face], [smoky_makeup, face]]|	3|
 
 ## 입출력 예 설명
-예제 #1
+-예제 #1
+
 headgear에 해당하는 의상이 yellow_hat, green_turban이고 eyewear에 해당하는 의상이 blue_sunglasses이므로 아래와 같이 5개의 조합이 가능합니다.
 
     1. yellow_hat
@@ -38,7 +39,8 @@ headgear에 해당하는 의상이 yellow_hat, green_turban이고 eyewear에 해
     4. yellow_hat + blue_sunglasses
     5. green_turban + blue_sunglasses
 
-예제 #2
+-예제 #2
+
 face에 해당하는 의상이 crow_mask, blue_sunglasses, smoky_makeup이므로 아래와 같이 3개의 조합이 가능합니다.
 
     1. crow_mask
