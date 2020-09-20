@@ -1,4 +1,4 @@
-package Å°ÆÐµå´©¸£±â;
+package í‚¤íŒ¨ë“œëˆ„ë¥´ê¸°;
 
 public class Solution {
 	public  String solution(int [] n, String hand) {
