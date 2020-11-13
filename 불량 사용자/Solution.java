@@ -41,7 +41,7 @@ class Solution {
             if(check[i]){
                 continue;
             }
-            String k = banned_id[cnt].replace("*","."); //���Խ� üũ! => (*->.)
+            String k = banned_id[cnt].replace("*","."); //정규식 체크! => (*->.)
             
             if(user_id[i].matches(k)){
                 check[i]=true;
